@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liaopengdong.github.io/date-time-tools/sitemap.xml
